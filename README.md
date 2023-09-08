@@ -24,8 +24,7 @@
 ## 💻*Skills*💻
 
 * #### *Main Languages*
-<img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 * #### *Learning Languages*
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
