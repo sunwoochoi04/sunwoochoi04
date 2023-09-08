@@ -6,8 +6,7 @@
 
 <!--introduce-->
 ## *👋Hi there👋*
-<img src="https://img.shields.io/badge/sunwoochoi04-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/saintcsw1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/sunwoochoi04-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <img src="https://img.shields.io/badge/saintcsw1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 <br><br>
 
 *I'm SunWoo Choi from the Department of Software at Hallym University.🚀*
