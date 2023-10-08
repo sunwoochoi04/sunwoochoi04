@@ -17,7 +17,7 @@
 <br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=csw040505)](https://solved.ac/{handle})
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=csw040505&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=csw040505&theme=)
 
 <!--skills-->
 ## 💻*Skills*💻
