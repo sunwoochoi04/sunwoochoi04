@@ -6,7 +6,7 @@
 
 <!--introduce-->
 ## *👋Hi there👋*
-<a href="https://sunwoochoi04.github.io/" target="_blank"><img src="https://img.shields.io/badge/github.io-white?style=for-the-badge&logo=githubpages&logoColor=222222"/></a>
+<a href="https://sunwoochoi04.github.io/" target="_blank"><img src="https://img.shields.io/badge/github.io-white?style=for-the-badge&logo=github&logoColor=222222"/></a>
 <a href="https://www.instagram.com/sunwoochoi04/" target="_blank"><img src="https://img.shields.io/badge/sunwoochoi04-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <img src="https://img.shields.io/badge/saintcsw1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 
